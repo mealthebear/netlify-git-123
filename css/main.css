@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  background-color: lightskyblue;
+}
+
+#subtitle {
+  background-color: lightgreen;
+}
+
+#title, #subtitle {
+  font-family: "Verdana", sans-serif;
+  margin: 0;
+  padding: 1rem 2rem;
+}
